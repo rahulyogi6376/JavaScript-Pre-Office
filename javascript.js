@@ -9,12 +9,12 @@ let deatils = {
     city: "jaipur",
 }
 console.log(deatils.age)
-// let fruits=['Apple','Orange','Banana']
-// document.write(myName)
-// document.write('<br>'+age)
-// document.write('<br>'+myName+" "+myLastName+" "+age)
-// document.write('<br>'+typeof age)
-// document.write('<br>'+typeof isRahul)
-// document.write('<br>'+isRahul)
-// console.log('<br>'+student)
-// document.write('<br>'+fruits)
+let fruits=['Apple','Orange','Banana']
+document.write(myName)
+document.write('<br>'+age)
+document.write('<br>'+myName+" "+myLastName+" "+age)
+document.write('<br>'+typeof age)
+document.write('<br>'+typeof isRahul)
+document.write('<br>'+isRahul)
+console.log('<br>'+student)
+document.write('<br>'+fruits)
